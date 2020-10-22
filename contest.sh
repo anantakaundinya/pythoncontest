@@ -1,0 +1,1 @@
+source "$platformcodecontest/contest.py"
